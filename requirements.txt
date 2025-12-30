@@ -1,7 +1,8 @@
 streamlit
 pandas
-plotly
 pdfplumber
-cadquery
+trimesh
+plotly
 numpy
 scipy
+networkx
